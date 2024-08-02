@@ -7,3 +7,4 @@ In addition to my development work, I delve into deep learning projects. I have 
 I hold a B. Tech in Electrical Engineering from Odisha University of Technology and Research, Bhubaneswar, where I graduated in 2023. My academic background provides a strong foundation in problem-solving and technical skills, which I continually apply in my professional journey.
 
 Feel free to connect with me to discuss web technology, deep learning, or even a game of chess!
+LinkedIn - https://www.linkedin.com/in/om-prakash-sahoo-166715204/
