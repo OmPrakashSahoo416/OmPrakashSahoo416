@@ -8,4 +8,6 @@ I hold a B. Tech in Electrical Engineering from Odisha University of Technology 
 
 Feel free to connect with me to discuss technology.
 
+Portfolio - https://om-prakash-sahoo-portfolio.web.app/
+
 LinkedIn - https://www.linkedin.com/in/om-prakash-sahoo-166715204/
