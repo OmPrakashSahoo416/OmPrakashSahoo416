@@ -6,4 +6,4 @@ I hold a B.Tech in Electrical Engineering from Odisha University of Technology a
 
 Portfolio - https://om-prakash-sahoo-portfolio.web.app/
 
-LinkedIn - www.linkedin.com/in/om-prakash-sahoo
+LinkedIn - https://www.linkedin.com/in/om-prakash-sahoo/
