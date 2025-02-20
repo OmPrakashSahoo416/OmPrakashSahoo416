@@ -1,12 +1,8 @@
 Hi, I'm Om Prakash Sahoo from Odisha, India.
 
-As a passionate software engineer with over a year of experience, I currently contribute to Hughes Systique Corporation’s Center of Excellence (CoE) team. Our team, dedicated to research and development, is at the forefront of innovation. My role encompasses working on development of deep learning models, frontend and backend.
+With 2+ years of experience, I work at Hughes Systique Corporation’s Center of Excellence (CoE), specializing in deep learning, frontend, and backend development. My work spans AI research and practical implementation, including depth estimation, beamforming, neural receivers, LLMs for wireless knowledge Q&A, and developing user-friendly application interfaces.
 
-In addition to my development work, I delve into deep learning projects. I have hands-on experience with depth estimation, neural receivers, and working on LLMs tailored for wireless knowledge Q&A. This blend of development and cutting-edge AI projects keeps me engaged and constantly learning.
-
-I hold a B. Tech in Electrical Engineering from Odisha University of Technology and Research, Bhubaneswar, where I graduated in 2023. My academic background provides a strong foundation in problem-solving and technical skills, which I continually apply in my professional journey.
-
-Feel free to connect with me to discuss web technology, deep learning, or even a game of chess!
+I hold a B.Tech in Electrical Engineering from Odisha University of Technology and Research, Bhubaneswar (2023). Let’s connect to discuss web tech, AI, or even a game of chess!
 
 Portfolio - https://om-prakash-sahoo-portfolio.web.app/
 
